@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright (c) 2013-present, Rajeev-K.
+
+using System;
 using System.Text;
 using System.Globalization;
 using Microsoft.VisualBasic;
